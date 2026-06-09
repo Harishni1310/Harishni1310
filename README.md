@@ -1,3 +1,9 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Harishni%20SS&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=62&descSize=16" width="100%"/> <div align="center"> <a href="https://git.io/typing-svg"> 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Harishni+S S+%F0%9F%91%8B;Full-Stack+MERN+Developer+%F0%9F%9A%80;1250%2B+Problems+Solved+on+SkillRack+%F0%9F%94%A5;Building+Smart+Solutions+with+Code+%F0%9F%92%BB;SIH+Finalist+%7C+Hackathon+Enthusiast+%F0%9F%8F%86" alt="Typing SVG" /> 
+</a> 
+</div> 
+<br/>
+
 ````md
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6A5ACD,50:70A5FD,100:38BDAE&text=Harishni%20S%20S&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20MERN%20Developer%20🚀&descAlignY=58" width="100%"/>
 
