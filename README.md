@@ -10,35 +10,6 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```java
-public class Harishni {
-
-    String name        = "Harishni SS";
-    String location    = "Tamil Nadu, India 🇮🇳";
-    String degree      = "B.E. CSBS @ Sri Eshwar College of Engineering";
-    String email       = "harishnisankar@gmail.com";
-
-    String[] stack     = {
-        "Java", "Python", "JavaScript",
-        "React", "Node.js", "Express",
-        "Spring Boot", "MongoDB", "PostgreSQL"
-    };
-
-    String[] currentlyLearning = {
-        "Advanced DSA",
-        "System Design",
-        "Machine Learning / CNN",
-        "Cloud (AWS)"
-    };
-
-    String funFact = "I debug code faster with coffee ☕";
-
-    String motto() {
-        return "Build things that matter. Solve problems that count.";
-    }
-}
-```
-
 <br clear="right"/>
 
 ---
